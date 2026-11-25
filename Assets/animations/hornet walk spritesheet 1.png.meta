@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 3cc57f3201958094f805f568dde543b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 422531355719928319
+    second: hornet walk spritesheet 1_0
+  - first:
+      213: 7096176883247075428
+    second: hornet walk spritesheet 1_1
+  - first:
+      213: 6412737681640148994
+    second: hornet walk spritesheet 1_2
+  - first:
+      213: 488912480362045540
+    second: hornet walk spritesheet 1_3
+  - first:
+      213: 2445316142478750819
+    second: hornet walk spritesheet 1_4
+  - first:
+      213: 2778318682944744676
+    second: hornet walk spritesheet 1_5
+  - first:
+      213: -8610412038775439404
+    second: hornet walk spritesheet 1_6
+  - first:
+      213: 5193594365018380116
+    second: hornet walk spritesheet 1_7
+  - first:
+      213: 3383475267356080525
+    second: hornet walk spritesheet 1_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hornet walk spritesheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 7256
+        width: 1435
+        height: 2320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9862487022dd500800000000000000
+      internalID: 422531355719928319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet walk spritesheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 7259
+        width: 1351
+        height: 2442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460d745374faa7260800000000000000
+      internalID: 7096176883247075428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet walk spritesheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 8048
+        y: 7257
+        width: 1394
+        height: 2523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2005ceff1fe9ef850800000000000000
+      internalID: 6412737681640148994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet walk spritesheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 11352
+        y: 7268
+        width: 1409
+        height: 2460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4602c3e7f47f8c600800000000000000
+      internalID: 488912480362045540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet walk spritesheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 3951
+        width: 1393
+        height: 2522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36479f363128fe120800000000000000
+      internalID: 2445316142478750819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet walk spritesheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 4764
+        y: 3956
+        width: 1379
+        height: 2520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eca0c93f129e8620800000000000000
+      internalID: 2778318682944744676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet walk spritesheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 8047
+        y: 3950
+        width: 1409
+        height: 2533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dffa03eedba18880800000000000000
+      internalID: -8610412038775439404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet walk spritesheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 11329
+        y: 3955
+        width: 1430
+        height: 2394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4571462ee8a531840800000000000000
+      internalID: 5193594365018380116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet walk spritesheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 646
+        width: 1435
+        height: 2302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89341944d484fe20800000000000000
+      internalID: 3383475267356080525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hornet walk spritesheet 1_0: 422531355719928319
+      hornet walk spritesheet 1_1: 7096176883247075428
+      hornet walk spritesheet 1_2: 6412737681640148994
+      hornet walk spritesheet 1_3: 488912480362045540
+      hornet walk spritesheet 1_4: 2445316142478750819
+      hornet walk spritesheet 1_5: 2778318682944744676
+      hornet walk spritesheet 1_6: -8610412038775439404
+      hornet walk spritesheet 1_7: 5193594365018380116
+      hornet walk spritesheet 1_8: 3383475267356080525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
