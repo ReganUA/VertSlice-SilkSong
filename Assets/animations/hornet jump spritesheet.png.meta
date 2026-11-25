@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 474ce57d7c1704418af05d72d996ae5e
+guid: d2ea0bb71b6b5a14b8031db23924e176
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3684732902739343859
-    second: 2d-template_0
+      213: 6644341836812285443
+    second: hornet jump spritesheet_0
+  - first:
+      213: -8946588106449345761
+    second: hornet jump spritesheet_1
+  - first:
+      213: 4055517709669587604
+    second: hornet jump spritesheet_2
+  - first:
+      213: -5781778159581598704
+    second: hornet jump spritesheet_3
+  - first:
+      213: -7464699198839595573
+    second: hornet jump spritesheet_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,13 +114,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2d-template_0
+      name: hornet jump spritesheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1400
-        height: 400
+        x: 145
+        y: 540
+        width: 266
+        height: 452
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,8 +129,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f9f8ff6d0dc22330800000000000000
-      internalID: 3684732902739343859
+      spriteID: 306767582b1753c50800000000000000
+      internalID: 6644341836812285443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet jump spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 544
+        width: 267
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f132a5ba48557d380800000000000000
+      internalID: -8946588106449345761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet jump spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 531
+        width: 254
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a5921bed7184830800000000000000
+      internalID: 4055517709669587604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet jump spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 551
+        width: 225
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ce604a56ff2cfa0800000000000000
+      internalID: -5781778159581598704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornet jump spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 46
+        width: 207
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdd50ad0af086890800000000000000
+      internalID: -7464699198839595573
       vertices: []
       indices: 
       edges: []
@@ -137,7 +237,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      2d-template_0: 3684732902739343859
+      hornet jump spritesheet_0: 6644341836812285443
+      hornet jump spritesheet_1: -8946588106449345761
+      hornet jump spritesheet_2: 4055517709669587604
+      hornet jump spritesheet_3: -5781778159581598704
+      hornet jump spritesheet_4: -7464699198839595573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
